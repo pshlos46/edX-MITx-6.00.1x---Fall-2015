@@ -1,0 +1,8 @@
+########################
+# Problem Set 03
+########################
+
+#Since this Problem set is a full hangman game, and the exercises before the final 
+#are just creating the functions you will end up calling from the main script
+#I'll just post the hangman.py the complete code you can play with
+#solutions will be posted not earlier than Sep 17, 2015 at 23:30 UTC, which is the official deadline
