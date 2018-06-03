@@ -7,3 +7,5 @@ Problem Set solutions of the edX - MITx: 6.00.1x Introduction to Computer Scienc
 
 Hopefully, they'll be useful for someone stuck in an exercise.
 
+[Prove of succesfully completing the course](https://courses.edx.org/certificates/9675ad73c1364082a37a4b797c2aa470)  
+
