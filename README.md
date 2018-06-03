@@ -3,7 +3,7 @@
 Problem Set solutions of the edX - MITx: 6.00.1x Introduction to Computer Science and Programming Using Python 
 - Class of Fall 2015.
 
-Problem set solutions will be posted after the deadlines for the problem sets end.
+> All of the posted solutions here have been marked as `Correct` by EDX's code checker.
 
-I don't take pride on my code, however, maybe someone stuck will find it useful
+Hopefully, they'll be useful for someone stuck in an exercise.
 
